@@ -1,0 +1,272 @@
+component_name,subsystem,quantity,provisional_material,status_vs_source_document,notes
+BIN_01_DIVIDER,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_FLOOR,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_FORK_POCKET_-1,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_FORK_POCKET_1,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_HANDLE_LEG_-1,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_HANDLE_LEG_1,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_RETAINED_SOLIDS,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_RIM_E,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_RIM_N,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_RIM_S,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_RIM_W,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_SLUDGE_CONTENTS,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_WALL_E,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_WALL_N,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_WALL_S,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+BIN_01_WALL_W,Waste Collection Bin [DOC],1,"provisional mild steel, fork-pocket / drag-handle bin",[DOC],documented 'secure disposal bins'; split bay is a PROPOSED arrangement separating screened solids from drained sludge
+CONVEYOR_01_BEARING_HEAD_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_BEARING_HEAD_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_BEARING_TAIL_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_BEARING_TAIL_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_BELT,Conveyor [DOC],1,"provisional rubber belt, 500 mm wide",[DOC],documented conveyor belt; belt speed / throughput NOT specified
+CONVEYOR_01_CHUTE_MOUNT_ARM,Conveyor [PROP],1,provisional mild steel,[PROP],discharge chute - proposed mechanism connecting the conveyor to the waste bin; NOT specified in the source document
+CONVEYOR_01_CHUTE_SIDE_-1,Conveyor [PROP],1,provisional mild steel,[PROP],discharge chute - proposed mechanism connecting the conveyor to the waste bin; NOT specified in the source document
+CONVEYOR_01_CHUTE_SIDE_1,Conveyor [PROP],1,provisional mild steel,[PROP],discharge chute - proposed mechanism connecting the conveyor to the waste bin; NOT specified in the source document
+CONVEYOR_01_CLEAT_00,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_01,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_02,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_03,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_04,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_05,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_06,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_07,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_08,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_CLEAT_09,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_DISCHARGE_CHUTE,Conveyor [PROP],1,provisional mild steel,[PROP],discharge chute - proposed mechanism connecting the conveyor to the waste bin; NOT specified in the source document
+CONVEYOR_01_DRIVE_ROLLER,Conveyor [DOC],1,"provisional steel roller, dia 100 mm",[DOC],motor-driven head roller
+CONVEYOR_01_GEARBOX_HOUSING,Conveyor Drive [DOC],1,provisional gearmotor envelope,[PROP],"the PDF states only 'motorized'; motor power, ratio, speed and gear type are NOT specified - envelope shown is a placeholder"
+CONVEYOR_01_GEARBOX_MOUNT,Conveyor Drive [DOC],1,provisional gearmotor envelope,[PROP],"the PDF states only 'motorized'; motor power, ratio, speed and gear type are NOT specified - envelope shown is a placeholder"
+CONVEYOR_01_GUARD_PLATE_-1,Safety [PROP],1,provisional perforated steel guard,[PROP],guard added around the nip point - not mentioned in the source
+CONVEYOR_01_GUARD_PLATE_1,Safety [PROP],1,provisional perforated steel guard,[PROP],guard added around the nip point - not mentioned in the source
+CONVEYOR_01_GUARD_TOP,Safety [PROP],1,provisional perforated steel guard,[PROP],guard added around the nip point - not mentioned in the source
+CONVEYOR_01_IDLER_00,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_01,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_02,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_00_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_00_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_01_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_01_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_02_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_IDLER_MOUNT_02_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_KNEE_BRACE_00,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_KNEE_BRACE_01,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_KNEE_BRACE_02,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_00_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_00_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_01_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_01_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_02_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_02_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_CROSS_00,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_CROSS_01,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_CROSS_02,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_00_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_00_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_01_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_01_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_02_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_FOOT_02_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_TOPPLATE_00,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_TOPPLATE_01,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_LEG_TOPPLATE_02,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_MOTOR_TERMINAL_BOX,Conveyor Drive [DOC],1,provisional gearmotor envelope,[PROP],"the PDF states only 'motorized'; motor power, ratio, speed and gear type are NOT specified - envelope shown is a placeholder"
+CONVEYOR_01_MOTOR_TERMINAL_FAN_COWL,Conveyor Drive [DOC],1,provisional gearmotor envelope,[PROP],"the PDF states only 'motorized'; motor power, ratio, speed and gear type are NOT specified - envelope shown is a placeholder"
+CONVEYOR_01_SCRAPER_ARM_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SCRAPER_ARM_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SCRAPER_BLADE,Conveyor [DOC],1,provisional hardened steel / polymer blade,[DOC],documented scraper blade wiping the return strand and discharging solids into the bin
+CONVEYOR_01_SCRAPER_TIE_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SCRAPER_TIE_1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SIDE_RAIL_L,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SIDE_RAIL_R,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SKIRT_L,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_SKIRT_R,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_TAIL_ROLLER,Conveyor [PROP],1,"provisional steel roller, dia 100 mm",[PROP],tail roller on tensioning slides
+CONVEYOR_01_TENSION_NUT_-1,Conveyor Structure [PROP],1,provisional mild steel,[PROP],conveyor structural / supporting component
+CONVEYOR_01_TENSION_NUT_1,Conveyor [PROP],1,provisional mild steel,[PROP],take-up screws give 60 mm of belt tension adjustment
+FILTER_02_CLOTH_MEDIA_1,Fabric Filter [DOC],1,provisional high-tensile porous synthetic cloth,[DOC],documented cloth polishing element; pore size / areal weight / flow rate NOT specified in the source
+FILTER_02_CLOTH_MEDIA_2,Fabric Filter [DOC],1,provisional high-tensile porous synthetic cloth,[DOC],documented cloth polishing element; pore size / areal weight / flow rate NOT specified in the source
+FILTER_02_COVER_GASKET,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FLANGE_E,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FLANGE_N,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FLANGE_S,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FLANGE_W,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FLOOR,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_FRAME_BOT_X-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_BOT_X1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_BOT_Y-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_BOT_Y1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_POST_-1-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_POST_-11,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_POST_1-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_POST_11,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_TOP_X-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_TOP_X1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_TOP_Y-1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_FRAME_TOP_Y1,Fabric Filter [DOC],1,provisional mild-steel support grid,[PROP],spreader frame carrying and sealing the cloth element
+FILTER_02_PEDESTAL_PLINTH,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_PEDESTAL_TOPPLATE,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_PEDESTAL_WEB_-1-1,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_PEDESTAL_WEB_-11,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_PEDESTAL_WEB_1-1,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_PEDESTAL_WEB_11,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_TOP_COVER,Maintenance Access,1,provisional stainless plate,[PROP],bolted removable top cover - clear vertical lift space above the chamber must be >= 450 mm for filter replacement
+FILTER_02_WALL_E,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_WALL_N,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_WALL_S,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FILTER_02_WALL_W,Fabric Polishing Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight polishing chamber; volume and residence time NOT calculated
+FLANGE_SLUDGE_DRAIN,Sludge Line,1,provisional polymer/steel pipe DN80,[PROP],sludge removal branch - deliberately separated from the clean-water outlet
+FLOW_01_INLET_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_01_INLET_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_02_TRANSFER_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_02_TRANSFER_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_03_SETTLING_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_03_SETTLING_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_04_SETTLING_DOWN_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_04_SETTLING_DOWN_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_05_TO_FABRIC_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_05_TO_FABRIC_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_06_THROUGH_FABRIC_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_06_THROUGH_FABRIC_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_07_OUTLET_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_07_OUTLET_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_08_CONVEYOR_SOLIDS_HEAD,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FLOW_08_CONVEYOR_SOLIDS_SHAFT,Flow Indicator,1,n/a - schematic,[PROP],direction-of-flow marker only; water colour does NOT indicate water quality
+FRAME_CROSSMEM_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_CROSSMEM_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_CROSSMEM_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_CROSSMEM_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_CROSSMEM_04,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_DECKPANEL_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_DECKPANEL_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_DECKPANEL_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_DECKPANEL_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_DECKPANEL_04,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_04,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_05,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_06,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_07,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_08,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_09,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_10,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_FOOTPLATE_11,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_GUSSET_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_GUSSET_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_GUSSET_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_GUSSET_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_04,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_05,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_06,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_07,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_08,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_09,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_10,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_LEVELSCREW_11,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_00,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_01,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_02,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_03,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_04,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_05,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_06,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_07,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_08,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_09,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_10,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_POST_11,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_FRONT_TIE,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_FRONT_TOP,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_IN_TIE,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_IN_TOP,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_OUT_TIE,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_OUT_TOP,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_REAR_TIE,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+FRAME_RAIL_REAR_TOP,Structural Frame,1,provisional mild-steel RHS 60x60x4 mm,[PROP],bolted transportable skid; no load rating claimed - requires structural calculation
+GROUND_PAD,Structural Frame,1,provisional concrete pad,[PROP],"visual datum plane for the skid, not a foundation design"
+INLET_CHAMBER_FLOOR,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_RIM_E,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_RIM_N,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_RIM_S,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_RIM_W,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_WALL_E,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_WALL_N,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_WALL_S,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_CHAMBER_WALL_W,Inlet Chamber,1,provisional 8 mm stainless plate,[PROP],water-tight inlet well upstream of the iron mesh screen [PROP]
+INLET_WATER_RAW,Flow Visuals,1,translucent water proxy,[PROP],visual water level indicator only - colour does NOT indicate water quality
+MEDIA_02_CELL_E,Gravel / Secondary Media [DOC],1,provisional stainless plate,[PROP],media cell retaining wall
+MEDIA_02_CELL_W,Gravel / Secondary Media [DOC],1,provisional stainless plate,[PROP],media cell retaining wall
+MEDIA_02_GRAVEL_L1,Gravel / Secondary Media [DOC],1,provisional multi-grade gravel layer 1 of 3,[DOC],graded gravel/sand bed - grain size distribution NOT specified in the source document
+MEDIA_02_GRAVEL_L2,Gravel / Secondary Media [DOC],1,provisional multi-grade gravel layer 2 of 3,[DOC],graded gravel/sand bed - grain size distribution NOT specified in the source document
+MEDIA_02_GRAVEL_L3,Gravel / Secondary Media [DOC],1,provisional multi-grade gravel layer 3 of 3,[DOC],graded gravel/sand bed - grain size distribution NOT specified in the source document
+MEDIA_02_UNDERDRAIN_PAN,Gravel / Secondary Media [DOC],1,provisional stainless plate,[PROP],underdrain pan supporting the multi-grade bed and collecting the clarified water draw-off
+PIPE_01_TRANSFER_RAW,Piping,1,provisional polymer/steel pipe DN150,[PROP],weir overflow from the screen chamber into the settling tank
+PIPE_02_SETTLING_TO_FABRIC,Piping,1,provisional polymer/steel pipe DN125,[PROP],clarified water draw-off taken from UNDER the multi-grade gravel bed
+PIPE_INLET_RAW,Piping,1,provisional polymer/steel pipe DN150,[PROP],raw sewage DN150 inlet into the iron mesh screen chamber
+PIPE_OUTLET,Piping,1,provisional polymer/steel pipe DN100,[PROP],"CLEAN-WATER OUTLET - distinct blue polymer, separate route, labelled valve"
+PIPE_SLUDGE_DRAIN,Sludge Line,1,provisional polymer/steel pipe DN80,[PROP],sludge removal branch - deliberately separated from the clean-water outlet
+PIPE_SLUDGE_DRAIN,Piping,1,provisional polymer/steel pipe DN80,[PROP],"SLUDGE DRAIN - olive/dark route, discharges into the sludge bay of the waste bin"
+PIPE_SLUDGE_SUPPORT_BRKT,Sludge Line,1,provisional polymer/steel pipe DN80,[PROP],sludge removal branch - deliberately separated from the clean-water outlet
+SCREEN_01_CARRIER_BOTTOM,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CARRIER_SIDE_L,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CARRIER_SIDE_R,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CARRIER_TOP,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CLAMP_-1_1345,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CLAMP_-1_885,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CLAMP_1_1345,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_CLAMP_1_885,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_GUIDE_RAIL_L,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_GUIDE_RAIL_R,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_HANDLE_BAR,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_HANDLE_LEG_-1,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_HANDLE_LEG_1,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_MESH_WIRE_H,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_MESH_WIRE_H,Iron Mesh Screen [DOC],1,"provisional rust-resistant iron wire, 25 mm aperture",[DOC],horizontal wire array of the mesh cassette
+SCREEN_01_MESH_WIRE_V,Iron Mesh Screen,1,provisional mild-steel carrier + iron wire mesh,[PROP],screen withdraws vertically; clearance required above the chamber = 250 mm (see design_parameters.json)
+SCREEN_01_MESH_WIRE_V,Iron Mesh Screen [DOC],1,"provisional rust-resistant iron wire, 25 mm aperture",[DOC],wastewater passes THROUGH this screen; large debris is retained
+TANK_01_HOPPER_OUTER,Sedimentation Chamber,1,provisional stainless plate,[PROP],hopper side slope = 55 deg from horizontal (typical repose range for drained sand is 35-45 deg; 55 deg is a provisional self-cleaning assumption requiring geotechnical check)
+TANK_01_HOPPER_OUTER,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_INLET_BAFFLE,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_INSPECTION_LID,Maintenance Access,1,provisional stainless plate,[PROP],"bolted removable inspection lid, 10 fasteners"
+TANK_01_INSPECTION_LID,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_LID_LIFT_EYE_-1,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_LID_LIFT_EYE_1,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_PLINTH,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_TOPPLATE,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_WEB_-1-1,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_WEB_-11,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_WEB_1-1,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_PEDESTAL_WEB_11,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_RIM_E,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_RIM_N,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_RIM_S,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_RIM_W,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_SLUDGE_BLANKET,Sludge Accumulation,1,provisional settled solids,[PROP],illustrative sludge blanket - not a volume or mass calculation
+TANK_01_SLUDGE_BLANKET,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_WALL_EAST,Flow Visuals,1,translucent water proxy,[PROP],settling zone water level - visual only
+TANK_01_WALL_EAST,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_WALL_NORTH,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_WALL_NORTH,Flow Visuals,1,translucent water proxy,[PROP],settling zone water level - visual only
+TANK_01_WALL_SOUTH,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_WALL_SOUTH,Flow Visuals,1,translucent water proxy,[PROP],settling zone water level - visual only
+TANK_01_WALL_WEST,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+TANK_01_WALL_WEST,Flow Visuals,1,translucent water proxy,[PROP],settling zone water level - visual only
+TANK_01_WATER_BODY,Flow Visuals,1,translucent water proxy,[PROP],settling zone water level - visual only
+TANK_01_WATER_BODY,Sedimentation Chamber,1,provisional 8 mm stainless plate / mild steel,[PROP],sloped hopper collects settled sludge; freeboard and level are provisional
+VALVE_FABRIC_IN_BODY,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_FABRIC_IN_HANDWHEEL,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_FINAL_OUTPUT_BODY,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_FINAL_OUTPUT_HANDWHEEL,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_INLET_ISOLATION_BODY,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_INLET_ISOLATION_HANDWHEEL,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_SLUDGE_DRAIN_BODY,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_SLUDGE_DRAIN_BODY,Sludge Line,1,provisional polymer/steel pipe DN80,[PROP],sludge removal branch - deliberately separated from the clean-water outlet
+VALVE_SLUDGE_DRAIN_HANDWHEEL,Valves,1,provisional cast body / steel handwheel,[PROP],isolation valve
+VALVE_SLUDGE_DRAIN_HANDWHEEL,Sludge Line,1,provisional polymer/steel pipe DN80,[PROP],sludge removal branch - deliberately separated from the clean-water outlet
